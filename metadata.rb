@@ -7,4 +7,4 @@ version          '1.8.1'
 
 supports         'debian'
 
-depends          'apt', '~> 7'
+depends          'apt', '~> 6'
