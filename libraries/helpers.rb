@@ -33,6 +33,8 @@ class Chef
         when /^6\./ then 'squeeze'
         when /^7\./ then 'wheezy'
         when /^8\./ then 'jessie'
+        when /^9\./ then 'stretch'
+        when /^10\./ then 'buster'
         else 'stable'
         end
       end
